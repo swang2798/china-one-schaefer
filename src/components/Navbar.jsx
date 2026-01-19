@@ -12,7 +12,7 @@ function Navbar() {
           <span></span><span></span><span></span>
         </button>
         <ul className={`nav-links ${isOpen ? 'open' : ''}`}>
-          <li><a href="/menu.pdf" target="_blank" rel="noopener noreferrer">Menu</a></li>
+          <li><a href={`${process.env.PUBLIC_URL}/menu.pdf`} target="_blank" rel="noopener noreferrer">Menu</a></li>
           <li><Link to="/about">About</Link></li>
         </ul>
       </div>
