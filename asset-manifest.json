@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/china-one-schaefer/static/css/main.03155724.css",
-    "main.js": "/china-one-schaefer/static/js/main.e36e5ee3.js",
+    "main.js": "/china-one-schaefer/static/js/main.c4a65551.js",
     "static/media/cook.jpg": "/china-one-schaefer/static/media/cook.416c5f1fa97695cae87f.jpg",
     "static/media/frontstore.jpg": "/china-one-schaefer/static/media/frontstore.af2f825f630690b5510c.jpg",
     "static/media/food1.jpg": "/china-one-schaefer/static/media/food1.e31bc3b77a871a25e018.jpg",
     "index.html": "/china-one-schaefer/index.html",
     "main.03155724.css.map": "/china-one-schaefer/static/css/main.03155724.css.map",
-    "main.e36e5ee3.js.map": "/china-one-schaefer/static/js/main.e36e5ee3.js.map"
+    "main.c4a65551.js.map": "/china-one-schaefer/static/js/main.c4a65551.js.map"
   },
   "entrypoints": [
     "static/css/main.03155724.css",
-    "static/js/main.e36e5ee3.js"
+    "static/js/main.c4a65551.js"
   ]
 }
